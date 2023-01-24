@@ -1,0 +1,27 @@
+.box {
+  border-radius: 25px;
+  position: absolute;
+  /* background-color: azure; */
+  background: rgba(0, 0, 0, 0.1);
+  padding: 70px 0;
+  margin: auto;
+  margin-top: 08%;
+  text-align: center;
+  top: 10%;
+  left: 35%;
+  width: 25%;
+}
+.box img {
+  width: 100px;
+}
+.box p {
+  font-size: 18px;
+  margin: 0px;
+}
+.box input {
+  margin: 10px;
+  width: 300px;
+  border-radius: 5px;
+  height: 50px;
+  background: bisque;
+}

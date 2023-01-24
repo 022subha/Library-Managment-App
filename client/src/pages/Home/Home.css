@@ -1,0 +1,42 @@
+body {
+  background-image: url("background.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box {
+  border-radius: 25px;
+  /* position:static; */
+  background-color: azure;
+  padding: 70px 0;
+  margin: auto;
+  margin-top: 08%;
+  text-align: center;
+  /* top: 50%;
+    left: 25%;
+    width: 25%; */
+}
+
+/* .small-box {
+    display: inline-block;
+    vertical-align: middle;
+  } */
+.small-box img {
+  display: inline-block;
+  width: 300px;
+}
+.small-box span {
+  font-size: 20px;
+}
+.small-box button {
+  border: none;
+  background-color: aqua;
+  border-radius: 15px;
+}
+.small-box button:hover {
+  cursor: pointer;
+}
+.small-box a {
+  text-decoration: none;
+  color: black;
+}
